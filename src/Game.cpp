@@ -8,7 +8,6 @@
 #include "Game.h"
 #include "Renderer.h"
 #include <iostream>
-#include <SDL2/SDL_ttf.h>
 #include <cassert>
 
 Game::Game()
